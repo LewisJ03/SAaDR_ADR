@@ -5,7 +5,7 @@
 
 What back end webframes will you be using and why will they be beneficial?
 
-We will be using python and flask to communicate with the databases to effectively handle user and library data.
+I will be using python and flask to communicate with the databases to effectively handle user and library data.
 
 ## Decision Drivers
 
@@ -29,9 +29,6 @@ Chosen option: "Flask", because there is a large amount of documentation about t
 * Good, because it has easier readability, allowing other developers to understand it easier.
 * Bad, as it is less effective compared to other webframes in terms of scalability.
 
-### Confirmation
-
-{Describe how the implementation of/compliance with the ADR can/will be confirmed. Is the chosen design and its implementation in line with the decision? E.g., a design/code review or a test with a library such as ArchUnit can help validate this. Note that although we classify this element as optional, it is included in many ADRs.}
 
 ## Pros and Cons of the Options
 
